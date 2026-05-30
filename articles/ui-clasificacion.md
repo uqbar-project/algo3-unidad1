@@ -1,9 +1,3 @@
----
-layout: article
-title: Clasificacion de las UI
-categories: [arquitectura, ui, cliente, servidor]
-featured: true
----
 
 # Concepto de cliente y servidor
 

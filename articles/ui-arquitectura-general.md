@@ -1,8 +1,3 @@
----
-layout: article
-title: Integracion de la ui en una arquitectura de un sistema de software
-featured: true
----
 
 # Arquitectura usual de una aplicación de software
 
@@ -38,6 +33,3 @@ En definitiva pareciera que la vista no se mezcla con el negocio pero el [acopla
 
 Nuestra idea es que la presentación no solo hable con el dominio sino que le pida todo lo que le tenga que pedir: en el ejemplo anterior sería muy bueno que la vista le pregunte directamente al empleado cuál fue la última vez que le pagué.
 
-# Links relacionados
-
-- [Temario Algoritmos III](algo3-temario.html)

@@ -1,8 +1,3 @@
----
-layout: article
-title: Elementos a tener en cuenta al programar ui
-featured: true
----
 
 # Objetivo
 
@@ -55,9 +50,4 @@ En forma transversal a este circuito básico se presenta un segundo conjunto de 
 - Perfomance y percepción de performance.
 - Intuitividad, autoaprendizaje.
 
-<!-- -->
-
-# Links relacionados
-
-- [Temario Algoritmos III](algo3-temario.html)
 
